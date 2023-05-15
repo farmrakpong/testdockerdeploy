@@ -39,7 +39,7 @@
     "@nuxtjs/google-fonts": "^3.0.0",
     "@nuxtjs/vuetify": "^1.12.3",
     "eslint-config-prettier": "^8.3.0",
-    "husky": "^7.0.4",
+    "husky": "^8.0.3",
     "lint-staged": "^12.1.2",
     "prettier": "^2.5.1"
   }
