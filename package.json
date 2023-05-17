@@ -24,7 +24,7 @@
     "@nuxtjs/moment": "^1.6.1",
     "core-js": "^3.19.3",
     "jsbarcode": "^3.11.5",
-    "nuxt": "^2.16.3",
+    "nuxt": "^3.5.0",
     "qrcode": "^1.5.1",
     "vee-validate": "^3.4.15",
     "vue": "^2.7.14",
