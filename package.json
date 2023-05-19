@@ -36,7 +36,7 @@
     "webpack": "^4.46.0"
   },
   "devDependencies": {
-    "@nuxtjs/google-fonts": "^3.0.0",
+    "@nuxtjs/google-fonts": "^3.0.1",
     "@nuxtjs/vuetify": "^1.12.3",
     "eslint-config-prettier": "^8.3.0",
     "husky": "^7.0.4",
